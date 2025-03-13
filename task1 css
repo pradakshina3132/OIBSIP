@@ -1,0 +1,192 @@
+
+/* Add font files for Figma Hand */
+@font-face {
+  font-family: 'Figma Hand';
+  src: url('fonts/figma-hand.woff2') format('woff2'),
+       url('fonts/figma-hand.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+:root {
+  --font-family-figma-hand: 'Figma Hand', sans-serif;
+  --font-family-inter: 'Inter', sans-serif;
+  --text-rgb-85-0-79: rgba(85, 0, 79, 1);
+  --text-rgb-30-30-30: rgba(30, 30, 30, 1);
+}
+
+.text-rgb-85-0-79 {
+  color: var(--text-rgb-85-0-79);
+}
+
+.text-rgb-30-30-30 {
+  color: var(--text-rgb-30-30-30);
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.rectangle-1-2 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(253, 123, 255, 1);
+}
+
+.rectangle-7-3 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(118, 0, 120, 1);
+}
+
+.rectangle-8-4 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(118, 0, 120, 1);
+}
+
+.rectangle-9-5 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(118, 0, 120, 1);
+}
+
+.rectangle-10-6 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(118, 0, 120, 1);
+}
+
+.rectangle-11-7 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(118, 0, 120, 1);
+}
+
+.rectangle-2-8 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(253, 123, 255, 1);
+}
+
+.rectangle-3-9 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(253, 123, 255, 1);
+}
+
+.rectangle-4-10 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(253, 123, 255, 1);
+}
+
+.rectangle-5-11 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(253, 123, 255, 1);
+}
+
+.rectangle-6-12 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(253, 123, 255, 1);
+}
+
+.text-13 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  font-family: var(--font-family-figma-hand);
+  font-weight: 700;
+  font-size: 64px;
+  text-decoration: none;
+  text-transform: none;
+  color: var(--text-rgb-85-0-79);
+}
+
+.text-14 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  font-family: var(--font-family-inter);
+  font-weight: normal;
+  font-size: 128px;
+  text-decoration: none;
+  text-transform: none;
+  color: var(--text-rgb-30-30-30);
+}
+
+.text-15 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  font-family: var(--font-family-figma-hand);
+  font-weight: 700;
+  font-size: 48px;
+  text-decoration: none;
+  text-transform: none;
+  color: var(--text-rgb-85-0-79);
+}
+
+.image-2-16 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  width: 100%;
+  height: auto;
+}
+
+.image-1-17 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  box-shadow: 7px 9px 7.599999904632568px 0px rgba(0,0,0,0.5);
+  width: 100%;
+  height: auto;
+}
+
+.frame-1-1 {
+@media (max-width: 1440px) {
+  .frame-1-1 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .frame-1-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 255, 255, 1);
+}

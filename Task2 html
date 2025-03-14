@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="frame-1-1">
+<div class="rectangle-1-2"></div>
+<img src="images/subtract-3.svg" class="subtract-3" alt="subtract" />
+<img src="images/subtract-4.svg" class="subtract-4" alt="subtract" />
+<img src="images/subtract-5.svg" class="subtract-5" alt="subtract" />
+<img src="images/ellipse-4-6.svg" class="ellipse-4-6" alt="ellipse-4" />
+<img src="images/ellipse-5-7.svg" class="ellipse-5-7" alt="ellipse-5" />
+<p class="text-8"><span class="text-rgb-42-0-0">BETA </span></p>
+</div>
+
+</body>
+</html>

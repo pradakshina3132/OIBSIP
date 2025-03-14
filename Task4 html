@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="frame-1-1">
+<img src="images/subtract-2.svg" class="subtract-2" alt="subtract" />
+<img src="images/line-1-3.svg" class="line-1-3" alt="line-1" />
+<img src="images/line-2-4.svg" class="line-2-4" alt="line-2" />
+<img src="images/line-3-5.svg" class="line-3-5" alt="line-3" />
+<img src="images/ellipse-2-6.svg" class="ellipse-2-6" alt="ellipse-2" />
+<img src="images/ellipse-3-7.svg" class="ellipse-3-7" alt="ellipse-3" />
+<p class="text-8"><span class="text-white">    Info 
+Graphics</span></p>
+<img src="images/image-1-9.png" class="image-1-9" alt="image-1" />
+<img src="images/image-2-10.png" class="image-2-10" alt="image-2" />
+<img src="images/image-3-11.png" class="image-3-11" alt="image-3" />
+<img src="images/image-4-12.png" class="image-4-12" alt="image-4" />
+<p class="text-13"><span class="text-black">Creative</span></p>
+<p class="text-14"><span class="text-black">Imagination</span></p>
+<p class="text-15"><span class="text-black">Animation</span></p>
+<p class="text-16"><span class="text-black">Editing</span></p>
+</div>
+
+</body>
+</html>
